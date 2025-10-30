@@ -15,8 +15,8 @@
   - Bringing electronics prototypes from breadboard → PCB → product  
   - Hackathons that focus on core engineering rather than fluff  
 - 🔗 My project portfolio and codebase lives at: [github.com/pranavvikraman25](https://github.com/pranavvikraman25)  
-- 📫 Reach out to me at: [yourmail@gmail.com](mailto:pranav.vikraman.25@gmail.com) or DM me on LinkedIn.  
-- 🌐 More about me & what I build: [portfolio.com](https://pranavvikraman25portfolio.com) 
+- 📫 Reach out to me at: [pranav.vikraman.25@gmail.com](mailto:pranav.vikraman.25@gmail.com) or DM me on LinkedIn.  
+
 
 ---
 
@@ -45,7 +45,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-vikraman-322020242/" target="_blank">LinkedIn</a> •  
-<a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> (if applicable) •  
-<a href="https://instagram.com/yourhandle" target="_blank">Instagram</a> (if applicable)
+<a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •  
+<a href="https://instagram.com/yourhandle" target="_blank">Instagram</a>
 </p>
 
