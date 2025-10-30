@@ -1,12 +1,13 @@
-# Hi 👋, I’m Pranav Vikraman (PV)
+# Hi 👋, I’m Pranav Vikraman S S
 
-### 🔧 Electronics & Communication Engineering | Curious Maker | Building Real-world Hardware
+###  Electronics & Communication Engineering | Building Hardware Projects | Volunteering @CodeonJVMchennai, @D3Community, @ChennaiReact | Passionate VLSI Learner | AR/VR Developer | Digital Prototyping | 3D Modeling (Blender, AutoCAD)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranavvikraman25&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🎓 Currently pursuing a Bachelor’s in Electronics & Communication Engineering at R.M.D Engineering College. :contentReference[oaicite:0]{index=0}  
+
+- 🎓 Currently pursuing a Bachelor’s in Electronics & Communication Engineering at R.M.D Engineering College. 
 - 💡 I believe in understanding how things have *always* worked — the circuits, the boards, the signals — before reinventing them.  
 - 🛠 I’m actively working on **PCB design**, **embedded systems**, and electronics-hardware projects that merge theory with practice.  
 - 📚 I’m exploring how firmware meets hardware, how sensors meet signals, and how to make reliable systems for real use.  
@@ -29,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width the="40" height="40" alt="MATLAB"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fpga/board.svg" width="40" height="40" alt="FPGA"/>
+
 </p>
 
 ---
@@ -37,6 +38,7 @@
 ### 📊 GitHub Stats
 
 ![Pranav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavvikraman25&show_icons=true&theme=tokyonight)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavvikraman25&layout=compact&theme=tokyonight)
 
 ---
@@ -45,7 +47,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-vikraman-322020242/" target="_blank">LinkedIn</a> •  
-<a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •  
+<a href="[https://twitter.com/yourhandle](https://x.com/pranav_vik25)" target="_blank">Twitter</a> •  
 <a href="https://instagram.com/yourhandle" target="_blank">Instagram</a>
 </p>
 
