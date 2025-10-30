@@ -1,6 +1,6 @@
 # Hi 👋, I’m Pranav Vikraman S S
 
-###  Electronics & Communication Engineering | Building Hardware Projects | Volunteering @CodeonJVMchennai, @D3Community, @ChennaiReact | Passionate VLSI Learner | AR/VR Developer | Digital Prototyping | 3D Modeling (Blender, AutoCAD)
+###  Electronics & Communication Engineering | Building Hardware Projects | Passionate VLSI Learner | AR/VR Developer | Digital Prototyping | 3D Modeling 
 
 ---
 
@@ -25,7 +25,7 @@
 
 <p align="left">
 <!-- replace icons as per your actual skills -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width the="40" height="40" alt="MATLAB"/>
@@ -47,7 +47,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-vikraman-322020242/" target="_blank">LinkedIn</a> •  
-<a href="[https://twitter.com/yourhandle](https://x.com/pranav_vik25)" target="_blank">Twitter</a> •  
-<a href="https://instagram.com/yourhandle" target="_blank">Instagram</a>
+<a href="https://x.com/pranav_vik25" target="_blank">Twitter</a> •  
+<a href="https://www.instagram.com/meetpranavvikraman" target="_blank">Instagram</a>
 </p>
 
